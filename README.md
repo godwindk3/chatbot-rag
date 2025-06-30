@@ -1,1 +1,2 @@
-rag
+![System design](system.png)
+
