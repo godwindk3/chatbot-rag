@@ -4,3 +4,4 @@ langchain-openai
 langchainhub
 chromadb
 langchain
+bs4
