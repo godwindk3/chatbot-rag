@@ -5,3 +5,4 @@ langchainhub
 chromadb
 langchain
 bs4
+langchain-google-genai
